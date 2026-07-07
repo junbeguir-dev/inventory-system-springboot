@@ -1,0 +1,5 @@
+</main>
+<footer class="footer">Built with Java 17, Spring Boot, JSP, H2/PostgreSQL, HTML, CSS, and JavaScript.</footer>
+<script src="/js/app.js"></script>
+</body>
+</html>
